@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Confind">確認</string>
+    <string name="Height">身高</string>
+    <string name="Next">下一頁</string>
+    <string name="Weight">體重</string>
+    <string name="Name">名字</string>
+    <string name="nname">名字</string>
+</resources>

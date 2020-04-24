@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="Name">名字</string>
+    <string name="Height">height</string>
+    <string name="Confind">confind</string>
+    <string name="Next">next</string>
+    <string name="Weight">weight</string>
+    <string name="Name">name</string>
+    <string name="nname">NAME</string>
 </resources>
